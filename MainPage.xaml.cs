@@ -25,7 +25,6 @@ namespace UniversalWin_TrainingApp
         public MainPage()
         {
             this.InitializeComponent();
-            //Git commit test comment
         }
     }
 }
